@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthall0726
 - 👀 I’m interested in Software Development/Programming  
-- 🌱 I am currently a Computer Science Major
+- 🌱 I am a current CS Student
 - 📫 How to reach me mhall087@fiu.edu
 
 <!---
